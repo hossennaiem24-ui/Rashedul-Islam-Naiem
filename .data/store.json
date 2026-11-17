@@ -1,0 +1,453 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "sku": "NA-WMN-0101",
+      "name": "Crimson & Noir Handloom Jamdani Saree",
+      "subBrand": "NA Heritage",
+      "category": "Women",
+      "categorySlug": "women",
+      "price": 12850,
+      "originalPrice": null,
+      "image": "/src/assets/images/cat_women_saree_1794898669744.jpg",
+      "description": "84-count cotton-silk Jamdani woven over three weeks in Rupganj with geometric noir borders on deep digital crimson.",
+      "fabricOrMaterial": "Muslin Cotton-Silk Blend",
+      "sizes": [
+        "Free Size"
+      ],
+      "stock": 14,
+      "isNew": true,
+      "isFeatured": true,
+      "onSale": false,
+      "createdAt": "2026-11-17T07:02:36.794Z"
+    },
+    {
+      "id": "prod-2",
+      "sku": "NA-MEN-0204",
+      "name": "Obsidian Red-Placket Embroidered Panjabi",
+      "subBrand": "NA Studio",
+      "category": "Men",
+      "categorySlug": "men",
+      "price": 4250,
+      "originalPrice": 4950,
+      "image": "/src/assets/images/cat_men_panjabi_1794898670419.jpg",
+      "description": "Long-staple combed black cotton Panjabi with tonal crimson geometric hand-embroidery along the mandarin collar and placket.",
+      "fabricOrMaterial": "100% Egyptian Cotton",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": 28,
+      "isNew": true,
+      "isFeatured": true,
+      "onSale": true,
+      "createdAt": "2026-11-17T07:02:36.794Z"
+    },
+    {
+      "id": "prod-3",
+      "sku": "NA-JWL-0309",
+      "name": "Meenakari Crimson & Oxidized Silver Bangles",
+      "subBrand": "Naiem Arong",
+      "category": "Jewellery",
+      "categorySlug": "jewellery",
+      "price": 3650,
+      "originalPrice": null,
+      "image": "/src/assets/images/cat_jewellery_macro_1794898671600.jpg",
+      "description": "Set of handcrafted 925 silver-plated brass bangles featuring hammered textures and deep ruby enamel inlay.",
+      "fabricOrMaterial": "Oxidized Brass & Enamel",
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "stock": 19,
+      "isNew": true,
+      "isFeatured": true,
+      "onSale": false,
+      "createdAt": "2026-11-17T07:02:36.794Z"
+    },
+    {
+      "id": "prod-4",
+      "sku": "NA-HOM-0412",
+      "name": "Rajshahi Nakshi Kantha Cushion & Matte Vase Set",
+      "subBrand": "NA Heritage",
+      "category": "Home Décor",
+      "categorySlug": "home-decor",
+      "price": 2950,
+      "originalPrice": 3400,
+      "image": "/src/assets/images/cat_home_nakshi_1794898672070.jpg",
+      "description": "Hand-quilted crimson and charcoal Nakshi Kantha cotton cushion cover paired with an artisanal black clay vessel.",
+      "fabricOrMaterial": "Handspun Cotton & Terracotta",
+      "sizes": [
+        "18\" x 18\""
+      ],
+      "stock": 22,
+      "isNew": true,
+      "isFeatured": true,
+      "onSale": true,
+      "createdAt": "2026-11-17T07:02:36.794Z"
+    },
+    {
+      "id": "prod-5",
+      "sku": "NA-KID-0501",
+      "name": "Block-Printed Festive Kurta & Embroidered Vest",
+      "subBrand": "Naiem Arong",
+      "category": "Kids'",
+      "categorySlug": "kids",
+      "price": 2450,
+      "originalPrice": null,
+      "image": "/src/assets/images/cat_kids_ethnic_1794898672258.jpg",
+      "description": "Soft breathable ivory cotton kurta with traditional crimson woodblock motifs and an obsidian floral embroidered vest.",
+      "fabricOrMaterial": "Organic Handloom Cotton",
+      "sizes": [
+        "2-3Y",
+        "4-5Y",
+        "6-7Y",
+        "8-9Y"
+      ],
+      "stock": 31,
+      "isNew": true,
+      "isFeatured": false,
+      "onSale": false,
+      "createdAt": "2026-11-17T07:02:36.794Z"
+    },
+    {
+      "id": "prod-6",
+      "sku": "NA-SKN-0608",
+      "name": "Botanical Saffron Serum & Noir Clay Gift Box",
+      "subBrand": "NA Noir",
+      "category": "Skin & Hair",
+      "categorySlug": "skin-hair",
+      "price": 1850,
+      "originalPrice": null,
+      "image": "/src/assets/images/cat_gifts_skincare_1794898672578.jpg",
+      "description": "Cold-pressed botanical night elixir and mineral black clay balm presented in a signature satin-tied gift box.",
+      "fabricOrMaterial": "Herbal Oils & Activated Clay",
+      "sizes": [
+        "50ml + 100g"
+      ],
+      "stock": 40,
+      "isNew": true,
+      "isFeatured": true,
+      "onSale": false,
+      "createdAt": "2026-11-17T07:02:36.794Z"
+    },
+    {
+      "id": "prod-7",
+      "sku": "NA-WNT-0711",
+      "name": "Handwoven Crimson Woollen Shawl & Linen Kurta",
+      "subBrand": "NA Studio",
+      "category": "Winter 26",
+      "categorySlug": "winter-26",
+      "price": 6800,
+      "originalPrice": 7900,
+      "image": "/src/assets/images/hero_winter_editorial_1794898669998.jpg",
+      "description": "Heavy-drape handloom merino-cotton shawl in signature Naiem Arong crimson layered with a structured ivory linen tunic.",
+      "fabricOrMaterial": "Merino Wool & Raw Linen",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": 11,
+      "isNew": true,
+      "isFeatured": true,
+      "onSale": true,
+      "createdAt": "2026-11-17T07:02:36.794Z"
+    },
+    {
+      "id": "prod-8",
+      "sku": "NA-WED-0802",
+      "name": "Royal Crimson Jamdani & Obsidian Sherwani Duo",
+      "subBrand": "NA Heritage",
+      "category": "Wedding",
+      "categorySlug": "wedding",
+      "price": 28500,
+      "originalPrice": null,
+      "image": "/src/assets/images/hero_heritage_crimson_1794898669437.jpg",
+      "description": "Bespoke bridal Jamdani saree paired with a structured black raw-silk Panjabi ensemble for contemporary ceremonies.",
+      "fabricOrMaterial": "Pure Rajshahi Silk & Jamdani",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "Custom"
+      ],
+      "stock": 6,
+      "isNew": true,
+      "isFeatured": true,
+      "onSale": false,
+      "createdAt": "2026-11-17T07:02:36.794Z"
+    },
+    {
+      "id": "prod-9",
+      "sku": "NA-GFT-0903",
+      "name": "Signature Obsidian Ribbon Artisan Gift Hamper",
+      "subBrand": "NA Noir",
+      "category": "Gifts & Crafts",
+      "categorySlug": "gifts-crafts",
+      "price": 3200,
+      "originalPrice": 3800,
+      "image": "/src/assets/images/cat_gifts_skincare_1794898672578.jpg",
+      "description": "Curated celebration box featuring organic fragrance oil, stoneware vessel, and hand-crafted greeting sleeve.",
+      "fabricOrMaterial": "Curated Artisan Set",
+      "sizes": [
+        "Standard Box"
+      ],
+      "stock": 25,
+      "isNew": false,
+      "isFeatured": false,
+      "onSale": true,
+      "createdAt": "2026-11-17T07:02:36.794Z"
+    },
+    {
+      "id": "prod-10",
+      "sku": "NA-JWL-0315",
+      "name": "Ruby Enamel Drop Chandbali Earrings",
+      "subBrand": "NA Noir",
+      "category": "Jewellery",
+      "categorySlug": "jewellery",
+      "price": 2150,
+      "originalPrice": 2500,
+      "image": "/src/assets/images/cat_jewellery_macro_1794898671600.jpg",
+      "description": "Filigree oxidized silver drop earrings set with faceted garnet-crimson glass stones and hand-painted enamel.",
+      "fabricOrMaterial": "925 Silver Plated & Garnet Glass",
+      "sizes": [
+        "One Size"
+      ],
+      "stock": 17,
+      "isNew": true,
+      "isFeatured": false,
+      "onSale": true,
+      "createdAt": "2026-11-17T07:02:36.794Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-women",
+      "name": "Women",
+      "slug": "women",
+      "image": "/src/assets/images/cat_women_saree_1794898669744.jpg",
+      "tagline": "Jamdani Sarees · Shalwar Kameez · Kurtis",
+      "visible": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "cat-men",
+      "name": "Men",
+      "slug": "men",
+      "image": "/src/assets/images/cat_men_panjabi_1794898670419.jpg",
+      "tagline": "Tailored Panjabis · Coats · Heritage Shirts",
+      "visible": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "cat-kids",
+      "name": "Kids'",
+      "slug": "kids",
+      "image": "/src/assets/images/cat_kids_ethnic_1794898672258.jpg",
+      "tagline": "Festive Kurtas · Frocks · Handloom Sets",
+      "visible": true,
+      "sortOrder": 3
+    },
+    {
+      "id": "cat-home",
+      "name": "Home Décor",
+      "slug": "home-decor",
+      "image": "/src/assets/images/cat_home_nakshi_1794898672070.jpg",
+      "tagline": "Nakshi Kantha · Cushion Covers · Pottery",
+      "visible": true,
+      "sortOrder": 4
+    },
+    {
+      "id": "cat-jewellery",
+      "name": "Jewellery",
+      "slug": "jewellery",
+      "image": "/src/assets/images/cat_jewellery_macro_1794898671600.jpg",
+      "tagline": "Oxidized Silver · Enamel Bangles · Rings",
+      "visible": true,
+      "sortOrder": 5
+    },
+    {
+      "id": "cat-skin",
+      "name": "Skin & Hair",
+      "slug": "skin-hair",
+      "image": "/src/assets/images/cat_gifts_skincare_1794898672578.jpg",
+      "tagline": "Botanical Oils · Herbal Cleansers · Serums",
+      "visible": true,
+      "sortOrder": 6
+    },
+    {
+      "id": "cat-gifts",
+      "name": "Gifts & Crafts",
+      "slug": "gifts-crafts",
+      "image": "/src/assets/images/cat_home_nakshi_1794898672070.jpg",
+      "tagline": "Artisan Hampers · Brassware · Notebooks",
+      "visible": true,
+      "sortOrder": 7
+    },
+    {
+      "id": "cat-wedding",
+      "name": "Wedding",
+      "slug": "wedding",
+      "image": "/src/assets/images/hero_heritage_crimson_1794898669437.jpg",
+      "tagline": "Bridal Jamdani · Velvet Sherwani · Trousseau",
+      "visible": true,
+      "sortOrder": 8
+    }
+  ],
+  "heroBanners": [
+    {
+      "id": "hero-1",
+      "eyebrow": "NAIEM ARONG · SIGNATURE EDITION",
+      "title": "Crimson Loom & Obsidian Craft",
+      "subtitle": "Handwoven Jamdani silks and precision-embroidered Panjabis crafted by master artisans across Bangladesh.",
+      "ctaLabel": "SHOP THE COLLECTION",
+      "targetCategory": "women",
+      "image": "/src/assets/images/hero_heritage_crimson_1794898669437.jpg",
+      "theme": "light",
+      "active": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "hero-2",
+      "eyebrow": "WINTER 26 · LIMITED ARCHIVE",
+      "title": "The Midnight & Crimson Edit",
+      "subtitle": "Layered handspun woollen shawls, structured Nehru jackets, and tailored winter silhouettes.",
+      "ctaLabel": "EXPLORE WINTER 26",
+      "targetCategory": "winter-26",
+      "image": "/src/assets/images/hero_winter_editorial_1794898669998.jpg",
+      "theme": "dark",
+      "active": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "hero-3",
+      "eyebrow": "HANDCRAFTED SILVER & ENAMEL",
+      "title": "Artisanal Jewellery Vault",
+      "subtitle": "Bold oxidized silver bangles and deep crimson meenakari statements sculpted by heritage silversmiths.",
+      "ctaLabel": "DISCOVER JEWELLERY",
+      "targetCategory": "jewellery",
+      "image": "/src/assets/images/cat_jewellery_macro_1794898671600.jpg",
+      "theme": "crimson",
+      "active": true,
+      "sortOrder": 3
+    }
+  ],
+  "promoBanners": [
+    {
+      "id": "promo-1",
+      "eyebrow": "ARTISANAL ADORNMENT",
+      "title": "Silver & Crimson Enamel Bangles",
+      "ctaLabel": "SHOP JEWELLERY",
+      "targetCategory": "jewellery",
+      "image": "/src/assets/images/cat_jewellery_macro_1794898671600.jpg"
+    },
+    {
+      "id": "promo-2",
+      "eyebrow": "HERITAGE INTERIORS",
+      "title": "Hand-Stitched Nakshi Kantha Living",
+      "ctaLabel": "EXPLORE HOME DÉCOR",
+      "targetCategory": "home-decor",
+      "image": "/src/assets/images/cat_home_nakshi_1794898672070.jpg"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1001",
+      "orderNumber": "NA-2026-1041",
+      "customerName": "Farhana Rahman",
+      "phone": "+880 1711-884320",
+      "email": "farhana.rahman@example.com",
+      "address": "House 24, Road 11, Banani",
+      "city": "Dhaka",
+      "paymentMethod": "bKash / Nagad",
+      "items": [
+        {
+          "productId": "prod-1",
+          "name": "Crimson & Noir Handloom Jamdani Saree",
+          "sku": "NA-WMN-0101",
+          "price": 12850,
+          "quantity": 1,
+          "selectedSize": "Free Size",
+          "image": "/src/assets/images/cat_women_saree_1794898669744.jpg"
+        }
+      ],
+      "subtotal": 12850,
+      "shippingFee": 0,
+      "total": 12850,
+      "status": "Delivered",
+      "createdAt": "2026-11-15T07:02:36.794Z"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "NA-2026-1042",
+      "customerName": "Tanvir Ahmed",
+      "phone": "+880 1819-440219",
+      "email": "tanvir.ahmed@example.com",
+      "address": "Flat 5B, Nasirabad Housing Society",
+      "city": "Chattogram",
+      "paymentMethod": "Cash on Delivery",
+      "items": [
+        {
+          "productId": "prod-2",
+          "name": "Obsidian Red-Placket Embroidered Panjabi",
+          "sku": "NA-MEN-0204",
+          "price": 4250,
+          "quantity": 2,
+          "selectedSize": "L",
+          "image": "/src/assets/images/cat_men_panjabi_1794898670419.jpg"
+        }
+      ],
+      "subtotal": 8500,
+      "shippingFee": 0,
+      "total": 8500,
+      "status": "Processing",
+      "createdAt": "2026-11-17T01:02:36.794Z"
+    },
+    {
+      "id": "ord-1003",
+      "orderNumber": "NA-2026-1043",
+      "customerName": "Nusrat Jahan",
+      "phone": "+880 1912-330912",
+      "email": "nusrat.jahan@example.com",
+      "address": "42 Lake Drive Road, Sector 7, Uttara",
+      "city": "Dhaka",
+      "paymentMethod": "Card Payment",
+      "items": [
+        {
+          "productId": "prod-3",
+          "name": "Meenakari Crimson & Oxidized Silver Bangles",
+          "sku": "NA-JWL-0309",
+          "price": 3650,
+          "quantity": 1,
+          "selectedSize": "2.6",
+          "image": "/src/assets/images/cat_jewellery_macro_1794898671600.jpg"
+        }
+      ],
+      "subtotal": 3650,
+      "shippingFee": 120,
+      "total": 3770,
+      "status": "Pending",
+      "createdAt": "2026-11-17T06:32:36.794Z"
+    }
+  ],
+  "subscribers": [
+    {
+      "id": "sub-1",
+      "email": "sadia.karim@example.com",
+      "region": "Bangladesh",
+      "createdAt": "2026-11-13T07:02:36.794Z"
+    },
+    {
+      "id": "sub-2",
+      "phone": "+880 1712-901234",
+      "region": "Bangladesh",
+      "createdAt": "2026-11-16T07:02:36.794Z"
+    }
+  ]
+}
